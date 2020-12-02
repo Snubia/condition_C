@@ -3,4 +3,4 @@
 Practicing conditional statement with C++
 
 **01_Student grades exercises**
-![Alt Text](Demos/grades.jped)
+![alt Text](Demos/grades.jpeg)
