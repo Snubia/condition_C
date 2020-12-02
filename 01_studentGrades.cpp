@@ -1,3 +1,5 @@
+// calculate student grades from their marks.
+
 #include <iostream>
 #include <math.h>
 using namespace std;
