@@ -1,6 +1,6 @@
 # condition_C
 
-Practicing conditional statement and Loops with C++
+Practicing conditional statements and Loops with C++
 
 **01_Student grades exercises**
 ![alt Text](Demos/grades.jpeg)
